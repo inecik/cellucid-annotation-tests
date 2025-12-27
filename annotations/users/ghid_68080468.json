@@ -8,13 +8,13 @@
   "orcid": "0000-0001-7379-9093",
   "linkedin": "kemalinecik",
   "email": "benkemalim@gmail.com",
-  "updatedAt": "2025-12-27T00:15:12.566Z",
+  "updatedAt": "2025-12-27T00:56:09.842Z",
   "datasets": {
     "suo": {
       "fieldsToAnnotate": [
         "LVL2"
       ],
-      "lastAccessedAt": "2025-12-27T00:09:50.104Z"
+      "lastAccessedAt": "2025-12-27T00:55:22.030Z"
     }
   },
   "suggestions": {
@@ -53,11 +53,24 @@
           "KRT*"
         ]
       }
+    ],
+    "LVL2:Erythroid": [
+      {
+        "id": "cdcd8566-ae77-42c2-81c4-53873bef3574",
+        "label": "da",
+        "ontologyId": null,
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2025-12-27T00:55:41.037Z",
+        "editedAt": null,
+        "markers": null
+      }
     ]
   },
   "votes": {
     "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb": "down",
-    "8987f3dc-1307-4005-bbef-580535248269": "down"
+    "8987f3dc-1307-4005-bbef-580535248269": "down",
+    "cdcd8566-ae77-42c2-81c4-53873bef3574": "up"
   },
   "comments": {
     "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb": [
@@ -80,6 +93,15 @@
         "text": "addadadad",
         "authorUsername": "ghid_68080468",
         "createdAt": "2025-12-27T00:12:35.512Z",
+        "editedAt": null
+      }
+    ],
+    "5a8a3564-4695-48b2-93bb-c91cf13ef0fd": [
+      {
+        "id": "21a90000-6d05-4dca-8725-089af919a574",
+        "text": "d",
+        "authorUsername": "ghid_68080468",
+        "createdAt": "2025-12-27T00:56:02.626Z",
         "editedAt": null
       }
     ]
