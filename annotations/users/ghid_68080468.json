@@ -8,7 +8,7 @@
   "orcid": "0000-0001-7379-9093",
   "linkedin": "kemalinecik",
   "email": "benkemalim@gmail.com",
-  "updatedAt": "2025-12-27T00:09:52.698Z",
+  "updatedAt": "2025-12-27T00:15:12.566Z",
   "datasets": {
     "suo": {
       "fieldsToAnnotate": [
@@ -17,8 +17,72 @@
       "lastAccessedAt": "2025-12-27T00:09:50.104Z"
     }
   },
-  "suggestions": {},
-  "votes": {},
-  "comments": {},
+  "suggestions": {
+    "LVL2:B_cell_lineage": [
+      {
+        "id": "5a8a3564-4695-48b2-93bb-c91cf13ef0fd",
+        "label": "d",
+        "ontologyId": "d",
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2025-12-27T00:12:09.659Z",
+        "editedAt": null,
+        "markers": [
+          "d"
+        ]
+      },
+      {
+        "id": "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb",
+        "label": "a",
+        "ontologyId": "a",
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2025-12-27T00:12:12.983Z",
+        "editedAt": null,
+        "markers": null
+      },
+      {
+        "id": "8987f3dc-1307-4005-bbef-580535248269",
+        "label": "Epithelial",
+        "ontologyId": "CL:0000066",
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2025-12-27T00:12:55.781Z",
+        "editedAt": null,
+        "markers": [
+          "KRT*"
+        ]
+      }
+    ]
+  },
+  "votes": {
+    "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb": "down",
+    "8987f3dc-1307-4005-bbef-580535248269": "down"
+  },
+  "comments": {
+    "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb": [
+      {
+        "id": "aa75b6c9-1474-456b-996a-2787d5868a0c",
+        "text": "adad",
+        "authorUsername": "ghid_68080468",
+        "createdAt": "2025-12-27T00:12:15.745Z",
+        "editedAt": null
+      },
+      {
+        "id": "2460ea44-23b3-4e4f-bdcc-bd13c93db671",
+        "text": "adadasdad",
+        "authorUsername": "ghid_68080468",
+        "createdAt": "2025-12-27T00:12:19.234Z",
+        "editedAt": "2025-12-27T00:12:27.519Z"
+      },
+      {
+        "id": "615d302a-b701-48ef-a4cb-77ba2aeeb1d7",
+        "text": "addadadad",
+        "authorUsername": "ghid_68080468",
+        "createdAt": "2025-12-27T00:12:35.512Z",
+        "editedAt": null
+      }
+    ]
+  },
   "deletedSuggestions": {}
 }
