@@ -3,7 +3,20 @@
   "username": "ghid_68080468",
   "login": "inecik",
   "githubUserId": 68080468,
-  "updatedAt": "2025-12-27T00:07:58.800Z",
+  "displayName": "Kemal Inecik",
+  "title": "Theis lab",
+  "orcid": "0000-0001-7379-9093",
+  "linkedin": "kemalinecik",
+  "email": "benkemalim@gmail.com",
+  "updatedAt": "2025-12-27T00:09:52.698Z",
+  "datasets": {
+    "suo": {
+      "fieldsToAnnotate": [
+        "LVL2"
+      ],
+      "lastAccessedAt": "2025-12-27T00:09:50.104Z"
+    }
+  },
   "suggestions": {},
   "votes": {},
   "comments": {},
