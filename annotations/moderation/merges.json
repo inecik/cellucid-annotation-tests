@@ -1,5 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "1970-01-01T00:00:00Z",
-  "merges": []
+  "updatedAt": "2025-12-27T00:15:14.986Z",
+  "merges": [
+    {
+      "bucket": "LVL2:B_cell_lineage",
+      "fromSuggestionId": "6e68ffdd-9038-4f9b-9271-dbf324b6e1bb",
+      "intoSuggestionId": "5a8a3564-4695-48b2-93bb-c91cf13ef0fd",
+      "by": "ghid_68080468",
+      "at": "2025-12-27T00:13:50.835Z",
+      "note": "ddd"
+    },
+    {
+      "bucket": "LVL2:B_cell_lineage",
+      "fromSuggestionId": "8987f3dc-1307-4005-bbef-580535248269",
+      "intoSuggestionId": "5a8a3564-4695-48b2-93bb-c91cf13ef0fd",
+      "by": "ghid_68080468",
+      "at": "2025-12-27T00:14:02.037Z"
+    }
+  ]
 }
